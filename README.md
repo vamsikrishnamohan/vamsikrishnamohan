@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vamsikrishnamohan
-- 👀 I’m interested in WEB Designing 
-- 🌱 I’m currently learning ...WEB Development
+-  Currently pursuing Mtech in IIT-Madras in DS and AI 
 - 📫 How to reach me - krishvamsi321@gmail.com
 
 <!---
